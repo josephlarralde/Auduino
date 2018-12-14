@@ -8,8 +8,8 @@ This code was found on [instructables](https://www.instructables.com/id/Auduino-
 
 #### instructions
 
-* Get yourself a Uno board, a piezo speaker and a bunch of 10k potentiometers
+* Get yourself a Uno board, a piezo speaker and five 10k potentiometers
 * Connect the speaker's red wire to pin 3, and the black wire to a GND pin
-* Wire your pots to Analog inputs (see [this tutorial](https://www.arduino.cc/en/Tutorial/AnalogInput))
+* Wire your pots to analog inputs A0 to A4 (see [this tutorial](https://www.arduino.cc/en/Tutorial/AnalogInput))
 * Upload the sketch to your Uno
 * That's it !
